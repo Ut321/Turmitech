@@ -124,6 +124,12 @@ Create db.json in project root:
 }
 
 
+
+
+
+
+
+
 Platform Configuration
 The app automatically detects your platform and uses the correct API URL:
 
