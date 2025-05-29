@@ -157,24 +157,6 @@ json-server --watch db.json --port 3000 --host 0.0.0.0
 Architecture
 Built with Clean Architecture principles:
 
-lib/
-├── main.dart
-├── injection_container.dart
-├── core/
-│   ├── constants/          # App constants
-│   ├── errors/             # Custom exceptions
-│   ├── network/            # Connectivity handling
-│   ├── utils/              # Utilities
-│   └── widgets/            # Reusable widgets
-└── features/
-    ├── main/               # Navigation
-    ├── kitchen/            # Kitchen feature
-    │   ├── data/           # Data layer
-    │   ├── domain/         # Business logic
-    │   └── presentation/   # UI layer
-    ├── subscriptions/      # Subscriptions feature
-    └── profile/            # Profile feature
-
 
 Architecture Layers:
 
