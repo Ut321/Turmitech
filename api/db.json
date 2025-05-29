@@ -1,0 +1,73 @@
+{
+  "kitchens": [
+    {
+      "id": "1",
+      "name": "Daily Homestyle Meals",
+      "address": "123 Main St, Toronto, ON M5G 1Z4",
+      "rating": 4.6,
+      "image": "https://images.unsplash.com/photo-1559847844-5315695dadae?w=400&h=300&fit=crop",
+      "isFavorite": true
+    },
+    {
+      "id": "2",
+      "name": "Mediterranean Delights",
+      "address": "456 Oak Ave, Toronto, ON M4K 2R1",
+      "rating": 4.8,
+      "image": "https://images.unsplash.com/photo-1559847844-5315695dadae?w=400&h=300&fit=crop",
+      "isFavorite": false
+    },
+    {
+      "id": "3",
+      "name": "Asian Fusion Kitchen",
+      "address": "789 Pine St, Toronto, ON M5V 3T8",
+      "rating": 4.4,
+      "image": "https://images.unsplash.com/photo-1559847844-5315695dadae?w=400&h=300&fit=crop",
+      "isFavorite": true
+    },
+    {
+      "id": "4",
+      "name": "Healthy Bites",
+      "address": "321 Elm St, Toronto, ON M6H 1A2",
+      "rating": 4.7,
+      "image": "https://images.unsplash.com/photo-1546549032-9571cd6b27df?w=400&h=300&fit=crop",
+      "isFavorite": false
+    }
+  ],
+  "mealPlans": [
+    {
+      "id": "101",
+      "title": "Meal Plan 2",
+      "itemsCount": 8,
+      "kitchenName": "Daily Homestyle Meals",
+      "image": "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?w=400&h=300&fit=crop"
+    },
+    {
+      "id": "102",
+      "title": "Mediterranean Week",
+      "itemsCount": 12,
+      "kitchenName": "Mediterranean Delights",
+      "image": "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=400&h=300&fit=crop"
+    },
+    {
+      "id": "103",
+      "title": "Asian Fusion Special",
+      "itemsCount": 10,
+      "kitchenName": "Asian Fusion Kitchen",
+      "image": "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?w=400&h=300&fit=crop"
+    },
+    {
+      "id": "104",
+      "title": "Healthy Living Plan",
+      "itemsCount": 14,
+      "kitchenName": "Healthy Bites",
+      "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=400&h=300&fit=crop"
+    },
+    {
+      "id": "105",
+      "title": "Comfort Food Bundle",
+      "itemsCount": 6,
+      "kitchenName": "Daily Homestyle Meals",
+      "image": "https://images.unsplash.com/photo-1574484284002-952d92456975?w=400&h=300&fit=crop"
+    }
+  ]
+}
